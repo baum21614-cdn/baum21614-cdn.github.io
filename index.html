@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>baum21614-cdn.github.io</title>
+    <style>
+        body{
+          font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="main">
+        <header class="mainheader">
+            <h1><u>Explore:</u></h1>
+        </header>
+        <div class="list" style="display:flex;flex-direction:column">
+            <a href="./js" class="listing">./js</a>
+            <a href="./css" class="listing">./css</a>
+            <a href="./images/weather" class="listing">./images/weather</a>
+            <a href="./images/games" class="listing">./images/games</a>
+        </div>
+    </div>
+    <script>
+        window.onload = function() {
+          setTimeout(function() {
+            if ( typeof(window.google_jobrunner) === "undefined" ) {
+              console.log("ad blocker installed");
+            } else {
+              console.log("no ad blocking found.");
+            }
+          }, 1000);
+        };
+    </script>
+</body>
+</html>
