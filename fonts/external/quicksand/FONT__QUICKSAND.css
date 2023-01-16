@@ -2,11 +2,5 @@
     font-family: 'Quicksand';
     font-style: normal;
     font-display: swap;
-    src: url() format('woff2');
-}
-@font-face {
-    font-family: 'Quicksand';
-    font-style: italic;
-    font-display: swap;
-    src: url() format('woff2');
+    src: url(baum21614-cdn.github.io/fonts/external/quicksand/Quicksand-VariableFont_wght.ttf) format('tff');
 }
