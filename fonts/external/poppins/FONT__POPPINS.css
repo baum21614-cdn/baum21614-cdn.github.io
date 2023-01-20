@@ -1,1 +1,112 @@
-
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Thin.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-ThinItalic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Light.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-LightItalic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Regular.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Italic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Medium.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-MediumItalic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-SemiBold.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-SemiBoldItalic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Bold.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-BoldItalic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-ExtraBold.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-ExtraBoldItalic.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-Black.ttf) format('woff2');
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+    src: url(https://baum21614-cdn.github.io/fonts/external/poppins/Poppins-BlackItalic.ttf) format('woff2');
+}
